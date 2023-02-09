@@ -1,8 +1,8 @@
 problem_link,problem_name,num_occur,status
 https://leetcode.com/problems/concatenation-of-array/,Concatenation of Array,2,done
-https://leetcode.com/problems/build-array-from-permutation/,Build Array from Permutation,3
-https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/,Determine Whether Matrix Can Be Obtained By Rotation,2
-https://leetcode.com/problems/sum-of-all-subset-xor-totals/,Sum of All Subset XOR Totals,2
+https://leetcode.com/problems/build-array-from-permutation/,Build Array from Permutation,3,
+https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/,Determine Whether Matrix Can Be Obtained By Rotation,2,
+https://leetcode.com/problems/sum-of-all-subset-xor-totals/,Sum of All Subset XOR Totals,2,
 https://leetcode.com/problems/sorting-the-sentence/,Sorting the Sentence,2
 https://leetcode.com/problems/replace-all-digits-with-characters/,Replace All Digits with Characters,2
 https://leetcode.com/problems/count-items-matching-a-rule/,Count Items Matching a Rule,3
